@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_information_outline.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/information_outline.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_dk.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/dk.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_toolbar.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_al_thumama_stadium.jpg.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/al_thumama_stadium.jpg"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_pl.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/pl.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_cm.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/cm.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_se.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/se.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ar.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ar.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_side_nav_bar.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_tshirt_crew.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/tshirt_crew.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_activity_home_card.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/activity_home_card.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable-v21_ic_menu_send.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.worldcuptracking.app-pngs-34:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_soccer_field.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/soccer_field.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_arg.jpg.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/arg.jpg"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_timer.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/timer.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_qa.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/qa.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_exit.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/exit.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_app_bar_main.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ic_refresh.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_activity_listview.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/activity_listview.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ec.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ec.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_countdown.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/countdown.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_education_city.jpg.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/education_city.jpg"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_pe.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/pe.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ru.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ru.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/menu_main.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/menu/main.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_item_section.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/item_section.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_share.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/share.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_item_group.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/item_group.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ch.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ch.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_sn.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/sn.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_kr.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/kr.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_logo.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/logo.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_newspaper.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/newspaper.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_item_team.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/item_team.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_activity_profile_team.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/activity_profile_team.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ng.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ng.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_item_stadium_card.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/item_stadium_card.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_content_profile.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/content_profile.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_mx.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/mx.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ic_menu.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_item_match_single.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/item_match_single.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_khalifa_international.jpg.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/khalifa_international.jpg"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_img_no_internet_satellite.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/img_no_internet_satellite.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_rs.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/rs.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_nav_header_main.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_de.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/de.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_uy.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/uy.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_pa.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/pa.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_be.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/be.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_activity_webview.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/activity_webview.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ma.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ma.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ahmadbinali.jpg.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ahmadbinali.jpg"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_include_drawer_content.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/include_drawer_content.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_au.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/au.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_gh.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/gh.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_es.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/es.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_albayt.jpg.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/albayt.jpg"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_calendar_clock.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/calendar_clock.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_item_group_standing.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/item_group_standing.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_sa.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/sa.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_table_large.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/table_large.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_star_rate.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/star_rate.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_soccer.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/soccer.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_activity_match_detail.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/activity_match_detail.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_us.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/us.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_star.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/star.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ir.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ir.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_nl.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/nl.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_tn.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/tn.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_wls.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/wls.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_cr.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/cr.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable-v21_ic_menu_camera.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_br.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/br.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_gb.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/gb.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_stadium.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/stadium.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_lusail.jpg.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/lusail.jpg"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_splash.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/splash.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_co.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/co.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_is.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/is.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable-v21_ic_menu_share.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_eg.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/eg.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_ca.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/ca.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_alwakrah.jpg.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/alwakrah.jpg"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_stadium_974.jpg.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/stadium_974.jpg"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_activity_about.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_hr.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/hr.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/menu_activity_main_drawer.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_fragment_match.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/fragment_match.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_fr.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/fr.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_pt.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/pt.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable-v21_ic_menu_manage.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_content_main.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_policy.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/policy.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_fragment_group.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/fragment_group.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/menu_menu_refresh.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/menu/menu_refresh.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_football_shirt.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/football_shirt.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_timetable.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/timetable.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_jp.png.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/jp.png"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/layout_activity_tabs_scroll.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/layout/activity_tabs_scroll.xml"
+    },
+    {
+        "merged": "com.worldcuptracking.app-merged_res-39:/drawable_image.xml.flat",
+        "source": "com.worldcuptracking.app-main-40:/drawable/image.xml"
+    }
+]

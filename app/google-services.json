@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1020570491322",
+    "firebase_url": "https://world-cup-2022-a8555-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "world-cup-2022-a8555",
+    "storage_bucket": "world-cup-2022-a8555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020570491322:android:4277e935b176948909a583",
+        "android_client_info": {
+          "package_name": "com.worldcup.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020570491322-qoc5i00r3pe4r65sfuece5f1ie46it52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANEQpf64vnajzXesinMqUG3Ecc8dmnKDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020570491322-qoc5i00r3pe4r65sfuece5f1ie46it52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020570491322:android:b3808c811af2351609a583",
+        "android_client_info": {
+          "package_name": "com.worldcuptracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020570491322-qoc5i00r3pe4r65sfuece5f1ie46it52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANEQpf64vnajzXesinMqUG3Ecc8dmnKDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020570491322-qoc5i00r3pe4r65sfuece5f1ie46it52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

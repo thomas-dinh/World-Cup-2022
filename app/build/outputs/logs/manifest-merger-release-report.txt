@@ -1,0 +1,910 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:2:1-79:12
+MERGED from [com.google.android.material:material:1.8.0-alpha01] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\475a556d0432e05354120585849d2bb3\transformed\material-1.8.0-alpha01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\bd4fbdc78a7c4fe385a0f94d67cfb1d2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ef5460a38d188d8fe3b3011ceeafaf1a\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\e6ac26bc31b0525876c1ee0daa4b42b9\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59cf86b0e95c42c757877b47490fe1ff\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ad407481afe78ca634ed4ad0a3669d85\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\19c95bad50625a1755e0a425074f0a84\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cf3e49b04bdb480989acca74cb2d1989\transformed\jetified-glide-4.7.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.balysv:material-ripple:1.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4905d73ca896a79e894dd6d798c90c94\transformed\jetified-material-ripple-1.0.2\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-ads:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\13c27f4634013c86849f81d217dcdabf\transformed\jetified-firebase-ads-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0676d81984b15badf7280cf3539221ce\transformed\jetified-play-services-ads-21.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.browser:browser:1.4.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\96adf75cfd55dfe1c3b73958b3d01700\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\1545bf218944e6a60b3cd867dc3d5ad1\transformed\jetified-circularimageview-3.0.2\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b412a9d006b6237bd179823ffd03dec3\transformed\jetified-firebase-appcheck-interop-16.0.1\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\eb74ed2ce5bfbf40b6676fa1f8b3d748\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\271557f9670657e6a9ef72d27881b078\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b8a443fbf55c841345f953d5bde1c5e6\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\f1de64e2ac42ed89f3aa8444c4c95094\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\250074a8bfad18c131e7c970cc0fe5e8\transformed\jetified-firebase-analytics-20.1.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\9e98d543370bd74aa24edb11f5ca8adc\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b79d75e6f3f653119df7f1780d015621\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:17:1-67:12
+MERGED from [com.google.android.gms:play-services-ads-base:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\030ee8b208af158367f02c1f6e3e9555\transformed\jetified-play-services-ads-base-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\04ece03dd367355b4b74d086f8ca6afe\transformed\jetified-user-messaging-platform-2.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\bea088d0e9ab7c1656fa75c48f351128\transformed\jetified-play-services-measurement-sdk-20.1.2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0c98b63b3830ab835e7b8fb667a33605\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4711d9931c2a9328b4ea97e4bd5a9976\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\5779ea63cb01d1caad89892b5fc0d4dc\transformed\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4e9f00f833a2e697540c1453858002b1\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4caa67a2ebccb03c1f9e0b6303b589a7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fccc8d15030e9ddc4f04a1191f2ed191\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\5fed0b232906c83cf5a2dd4ab6235adb\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fbb7152fb5e5896e301d973bc4c86e5a\transformed\jetified-activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\abd7aaeb79eae65c1bd1e0e024975ffc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\89288d471df0a01a25fc4f1bda82615a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\f0cab340ec6bb2cd6987c858e490b680\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\949540cf97b73edd0867422b27839614\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dd5a35773a831c38ad0f8a9228c42db9\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ef66357e44e61211fd999bc0b772af61\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\decfbcb37dc8b41266844afbfb1f067a\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\7d1b5a610444545961236545946853fb\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\095124a5932bc72401f54ebaedaf9de5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8665c694f9f29322a821e2e352139399\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8d54b194ad1e83c8045b6464cb195c0e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\df6d1d33def4b10b0423cee40a7bdb7a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\a27c6aa758d032b426a7d4666caa658d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\684a2495bc5be7cf5f5d25e0bc1f6cce\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.core:core:1.8.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\817b2fb9475b60d41f673b4294c05843\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\1c7dcfd24ba625f74349331b28a8d942\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8508431b56924959a90c594cfba04620\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c2a983b1880bab93c333628281d5e897\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\1833f4e8a2d3ce47a893859fffcb915e\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\a183006c3d24247ad50fda2b142f46b2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\48afff7d92f0e7958c6bee72fbd473a0\transformed\jetified-gifdecoder-4.7.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\55fe1a4e883f5ce7edc8faa9a589bf13\transformed\jetified-firebase-components-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\53673f7728c16cd7057e7ffde8579471\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\6c96a6dd53fe98cfe9266e44435b0016\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cfb38dcbdeecda9e14afc64422eca163\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0928a38caabc4c094388db666dfe02a5\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\7b85e8f16d16e7602c8c30ce87f690fa\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\5657535f01bf71addea092df6c4c9593\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0b80922676352e4d6260843e0647f6a0\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\62fb20ba47ad1e357e85822438e21de2\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\aeaf8de85d7c5ea719c58c6183a252e4\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\a06b537ddc24e03387fd8b51c47c2f94\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\6152cb50a4ed726001f0cf54b60d51b7\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\884f7fe6ce5c652865c57afb5f416295\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fb0c8155c23d9bb2b126bcceeecbc440\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\e8d3c1379228a0b0856a244768915085\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+		INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4711d9931c2a9328b4ea97e4bd5a9976\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4711d9931c2a9328b4ea97e4bd5a9976\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_CALENDAR
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:6:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:7:22-70
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:8:5-78
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0c98b63b3830ab835e7b8fb667a33605\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0c98b63b3830ab835e7b8fb667a33605\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4711d9931c2a9328b4ea97e4bd5a9976\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4711d9931c2a9328b4ea97e4bd5a9976\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:10:22-77
+application
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:12:5-78:19
+MERGED from [com.google.android.material:material:1.8.0-alpha01] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\475a556d0432e05354120585849d2bb3\transformed\material-1.8.0-alpha01\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0-alpha01] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\475a556d0432e05354120585849d2bb3\transformed\material-1.8.0-alpha01\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\bd4fbdc78a7c4fe385a0f94d67cfb1d2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\bd4fbdc78a7c4fe385a0f94d67cfb1d2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cf3e49b04bdb480989acca74cb2d1989\transformed\jetified-glide-4.7.1\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cf3e49b04bdb480989acca74cb2d1989\transformed\jetified-glide-4.7.1\AndroidManifest.xml:11:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4905d73ca896a79e894dd6d798c90c94\transformed\jetified-material-ripple-1.0.2\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4905d73ca896a79e894dd6d798c90c94\transformed\jetified-material-ripple-1.0.2\AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-ads:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\13c27f4634013c86849f81d217dcdabf\transformed\jetified-firebase-ads-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ads:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\13c27f4634013c86849f81d217dcdabf\transformed\jetified-firebase-ads-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\1545bf218944e6a60b3cd867dc3d5ad1\transformed\jetified-circularimageview-3.0.2\AndroidManifest.xml:11:5-13:38
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\1545bf218944e6a60b3cd867dc3d5ad1\transformed\jetified-circularimageview-3.0.2\AndroidManifest.xml:11:5-13:38
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b412a9d006b6237bd179823ffd03dec3\transformed\jetified-firebase-appcheck-interop-16.0.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b412a9d006b6237bd179823ffd03dec3\transformed\jetified-firebase-appcheck-interop-16.0.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\271557f9670657e6a9ef72d27881b078\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\271557f9670657e6a9ef72d27881b078\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b8a443fbf55c841345f953d5bde1c5e6\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b8a443fbf55c841345f953d5bde1c5e6\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\f1de64e2ac42ed89f3aa8444c4c95094\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\f1de64e2ac42ed89f3aa8444c4c95094\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\250074a8bfad18c131e7c970cc0fe5e8\transformed\jetified-firebase-analytics-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\250074a8bfad18c131e7c970cc0fe5e8\transformed\jetified-firebase-analytics-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b79d75e6f3f653119df7f1780d015621\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b79d75e6f3f653119df7f1780d015621\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:46:5-65:19
+MERGED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:46:5-65:19
+MERGED from [com.google.android.gms:play-services-ads-base:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\030ee8b208af158367f02c1f6e3e9555\transformed\jetified-play-services-ads-base-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\030ee8b208af158367f02c1f6e3e9555\transformed\jetified-play-services-ads-base-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\bea088d0e9ab7c1656fa75c48f351128\transformed\jetified-play-services-measurement-sdk-20.1.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\bea088d0e9ab7c1656fa75c48f351128\transformed\jetified-play-services-measurement-sdk-20.1.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0c98b63b3830ab835e7b8fb667a33605\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0c98b63b3830ab835e7b8fb667a33605\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\5779ea63cb01d1caad89892b5fc0d4dc\transformed\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\5779ea63cb01d1caad89892b5fc0d4dc\transformed\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4e9f00f833a2e697540c1453858002b1\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4e9f00f833a2e697540c1453858002b1\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4caa67a2ebccb03c1f9e0b6303b589a7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4caa67a2ebccb03c1f9e0b6303b589a7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fccc8d15030e9ddc4f04a1191f2ed191\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fccc8d15030e9ddc4f04a1191f2ed191\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.8.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\817b2fb9475b60d41f673b4294c05843\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\817b2fb9475b60d41f673b4294c05843\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8508431b56924959a90c594cfba04620\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8508431b56924959a90c594cfba04620\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\48afff7d92f0e7958c6bee72fbd473a0\transformed\jetified-gifdecoder-4.7.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\48afff7d92f0e7958c6bee72fbd473a0\transformed\jetified-gifdecoder-4.7.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\53673f7728c16cd7057e7ffde8579471\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\53673f7728c16cd7057e7ffde8579471\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cfb38dcbdeecda9e14afc64422eca163\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cfb38dcbdeecda9e14afc64422eca163\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0b80922676352e4d6260843e0647f6a0\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0b80922676352e4d6260843e0647f6a0\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\817b2fb9475b60d41f673b4294c05843\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:17:9-41
+	android:hardwareAccelerated
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:15:9-43
+	android:icon
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:13:9-56
+activity#com.worldcuptracking.activity.MainActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:23:13-45
+	android:exported
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:22:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.worldcuptracking.activity.NewsActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:31:9-33:47
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:32:13-70
+activity#com.worldcuptracking.activity.MatchDetailActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:35:9-37:47
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:36:13-77
+activity#com.worldcuptracking.activity.NewsFeedActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:39:9-41:47
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:40:13-74
+activity#com.worldcuptracking.activity.StadiumListActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:43:9-45:47
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:44:13-77
+activity#com.worldcuptracking.activity.StadiumDetailsActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:47:9-49:47
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:48:13-80
+activity#com.worldcuptracking.activity.GroupActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:51:9-53:47
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:53:13-44
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:52:13-71
+activity#com.worldcuptracking.activity.MatchActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:55:9-57:47
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:57:13-44
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:56:13-71
+activity#com.worldcuptracking.activity.AnalysisActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:59:9-61:47
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:60:13-74
+activity#com.worldcuptracking.activity.TeamActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:62:9-64:47
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:64:13-44
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:63:13-70
+activity#com.worldcuptracking.activity.TeamProfileActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:65:9-67:47
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:66:13-77
+activity#com.worldcuptracking.activity.AboutActivity
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:68:9-70:47
+	android:theme
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:70:13-44
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:69:13-71
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:73:9-75:52
+	android:value
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:75:13-49
+	android:name
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml:74:13-69
+uses-sdk
+INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.8.0-alpha01] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\475a556d0432e05354120585849d2bb3\transformed\material-1.8.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0-alpha01] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\475a556d0432e05354120585849d2bb3\transformed\material-1.8.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\bd4fbdc78a7c4fe385a0f94d67cfb1d2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\bd4fbdc78a7c4fe385a0f94d67cfb1d2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ef5460a38d188d8fe3b3011ceeafaf1a\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ef5460a38d188d8fe3b3011ceeafaf1a\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\e6ac26bc31b0525876c1ee0daa4b42b9\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\e6ac26bc31b0525876c1ee0daa4b42b9\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59cf86b0e95c42c757877b47490fe1ff\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59cf86b0e95c42c757877b47490fe1ff\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ad407481afe78ca634ed4ad0a3669d85\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ad407481afe78ca634ed4ad0a3669d85\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\19c95bad50625a1755e0a425074f0a84\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\19c95bad50625a1755e0a425074f0a84\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cf3e49b04bdb480989acca74cb2d1989\transformed\jetified-glide-4.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cf3e49b04bdb480989acca74cb2d1989\transformed\jetified-glide-4.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv:material-ripple:1.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4905d73ca896a79e894dd6d798c90c94\transformed\jetified-material-ripple-1.0.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv:material-ripple:1.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4905d73ca896a79e894dd6d798c90c94\transformed\jetified-material-ripple-1.0.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-ads:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\13c27f4634013c86849f81d217dcdabf\transformed\jetified-firebase-ads-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ads:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\13c27f4634013c86849f81d217dcdabf\transformed\jetified-firebase-ads-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0676d81984b15badf7280cf3539221ce\transformed\jetified-play-services-ads-21.2.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0676d81984b15badf7280cf3539221ce\transformed\jetified-play-services-ads-21.2.0\AndroidManifest.xml:21:5-23:52
+MERGED from [androidx.browser:browser:1.4.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\96adf75cfd55dfe1c3b73958b3d01700\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\96adf75cfd55dfe1c3b73958b3d01700\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\1545bf218944e6a60b3cd867dc3d5ad1\transformed\jetified-circularimageview-3.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\1545bf218944e6a60b3cd867dc3d5ad1\transformed\jetified-circularimageview-3.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b412a9d006b6237bd179823ffd03dec3\transformed\jetified-firebase-appcheck-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b412a9d006b6237bd179823ffd03dec3\transformed\jetified-firebase-appcheck-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\eb74ed2ce5bfbf40b6676fa1f8b3d748\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\eb74ed2ce5bfbf40b6676fa1f8b3d748\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\271557f9670657e6a9ef72d27881b078\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\271557f9670657e6a9ef72d27881b078\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b8a443fbf55c841345f953d5bde1c5e6\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b8a443fbf55c841345f953d5bde1c5e6\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\f1de64e2ac42ed89f3aa8444c4c95094\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\f1de64e2ac42ed89f3aa8444c4c95094\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\250074a8bfad18c131e7c970cc0fe5e8\transformed\jetified-firebase-analytics-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\250074a8bfad18c131e7c970cc0fe5e8\transformed\jetified-firebase-analytics-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\9e98d543370bd74aa24edb11f5ca8adc\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\9e98d543370bd74aa24edb11f5ca8adc\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b79d75e6f3f653119df7f1780d015621\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b79d75e6f3f653119df7f1780d015621\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\030ee8b208af158367f02c1f6e3e9555\transformed\jetified-play-services-ads-base-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\030ee8b208af158367f02c1f6e3e9555\transformed\jetified-play-services-ads-base-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\04ece03dd367355b4b74d086f8ca6afe\transformed\jetified-user-messaging-platform-2.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\04ece03dd367355b4b74d086f8ca6afe\transformed\jetified-user-messaging-platform-2.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\bea088d0e9ab7c1656fa75c48f351128\transformed\jetified-play-services-measurement-sdk-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\bea088d0e9ab7c1656fa75c48f351128\transformed\jetified-play-services-measurement-sdk-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0c98b63b3830ab835e7b8fb667a33605\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0c98b63b3830ab835e7b8fb667a33605\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4711d9931c2a9328b4ea97e4bd5a9976\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4711d9931c2a9328b4ea97e4bd5a9976\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\5779ea63cb01d1caad89892b5fc0d4dc\transformed\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\5779ea63cb01d1caad89892b5fc0d4dc\transformed\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4e9f00f833a2e697540c1453858002b1\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4e9f00f833a2e697540c1453858002b1\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4caa67a2ebccb03c1f9e0b6303b589a7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4caa67a2ebccb03c1f9e0b6303b589a7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fccc8d15030e9ddc4f04a1191f2ed191\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fccc8d15030e9ddc4f04a1191f2ed191\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\5fed0b232906c83cf5a2dd4ab6235adb\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\5fed0b232906c83cf5a2dd4ab6235adb\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fbb7152fb5e5896e301d973bc4c86e5a\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fbb7152fb5e5896e301d973bc4c86e5a\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\abd7aaeb79eae65c1bd1e0e024975ffc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\abd7aaeb79eae65c1bd1e0e024975ffc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\89288d471df0a01a25fc4f1bda82615a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\89288d471df0a01a25fc4f1bda82615a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\f0cab340ec6bb2cd6987c858e490b680\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\f0cab340ec6bb2cd6987c858e490b680\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\949540cf97b73edd0867422b27839614\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\949540cf97b73edd0867422b27839614\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dd5a35773a831c38ad0f8a9228c42db9\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dd5a35773a831c38ad0f8a9228c42db9\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ef66357e44e61211fd999bc0b772af61\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ef66357e44e61211fd999bc0b772af61\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\decfbcb37dc8b41266844afbfb1f067a\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\decfbcb37dc8b41266844afbfb1f067a\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\7d1b5a610444545961236545946853fb\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\7d1b5a610444545961236545946853fb\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\095124a5932bc72401f54ebaedaf9de5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\095124a5932bc72401f54ebaedaf9de5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8665c694f9f29322a821e2e352139399\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8665c694f9f29322a821e2e352139399\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8d54b194ad1e83c8045b6464cb195c0e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8d54b194ad1e83c8045b6464cb195c0e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\df6d1d33def4b10b0423cee40a7bdb7a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\df6d1d33def4b10b0423cee40a7bdb7a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\a27c6aa758d032b426a7d4666caa658d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\a27c6aa758d032b426a7d4666caa658d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\684a2495bc5be7cf5f5d25e0bc1f6cce\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\684a2495bc5be7cf5f5d25e0bc1f6cce\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.core:core:1.8.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\817b2fb9475b60d41f673b4294c05843\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\817b2fb9475b60d41f673b4294c05843\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\1c7dcfd24ba625f74349331b28a8d942\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\1c7dcfd24ba625f74349331b28a8d942\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8508431b56924959a90c594cfba04620\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8508431b56924959a90c594cfba04620\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c2a983b1880bab93c333628281d5e897\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c2a983b1880bab93c333628281d5e897\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\1833f4e8a2d3ce47a893859fffcb915e\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\1833f4e8a2d3ce47a893859fffcb915e\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\a183006c3d24247ad50fda2b142f46b2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\a183006c3d24247ad50fda2b142f46b2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\48afff7d92f0e7958c6bee72fbd473a0\transformed\jetified-gifdecoder-4.7.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\48afff7d92f0e7958c6bee72fbd473a0\transformed\jetified-gifdecoder-4.7.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\55fe1a4e883f5ce7edc8faa9a589bf13\transformed\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\55fe1a4e883f5ce7edc8faa9a589bf13\transformed\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\53673f7728c16cd7057e7ffde8579471\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\53673f7728c16cd7057e7ffde8579471\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\6c96a6dd53fe98cfe9266e44435b0016\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\6c96a6dd53fe98cfe9266e44435b0016\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cfb38dcbdeecda9e14afc64422eca163\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cfb38dcbdeecda9e14afc64422eca163\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0928a38caabc4c094388db666dfe02a5\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0928a38caabc4c094388db666dfe02a5\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\7b85e8f16d16e7602c8c30ce87f690fa\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\7b85e8f16d16e7602c8c30ce87f690fa\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\5657535f01bf71addea092df6c4c9593\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\5657535f01bf71addea092df6c4c9593\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0b80922676352e4d6260843e0647f6a0\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0b80922676352e4d6260843e0647f6a0\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\62fb20ba47ad1e357e85822438e21de2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\62fb20ba47ad1e357e85822438e21de2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\aeaf8de85d7c5ea719c58c6183a252e4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\aeaf8de85d7c5ea719c58c6183a252e4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\a06b537ddc24e03387fd8b51c47c2f94\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\a06b537ddc24e03387fd8b51c47c2f94\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\6152cb50a4ed726001f0cf54b60d51b7\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\6152cb50a4ed726001f0cf54b60d51b7\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\884f7fe6ce5c652865c57afb5f416295\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\884f7fe6ce5c652865c57afb5f416295\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fb0c8155c23d9bb2b126bcceeecbc440\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fb0c8155c23d9bb2b126bcceeecbc440\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\e8d3c1379228a0b0856a244768915085\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\e8d3c1379228a0b0856a244768915085\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0676d81984b15badf7280cf3539221ce\transformed\jetified-play-services-ads-21.2.0\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+		INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+		ADDED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+		INJECTED from D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4711d9931c2a9328b4ea97e4bd5a9976\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4711d9931c2a9328b4ea97e4bd5a9976\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.6] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\404750eeeb286faec3ca2171bf2ecc60\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b8a443fbf55c841345f953d5bde1c5e6\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b8a443fbf55c841345f953d5bde1c5e6\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b8a443fbf55c841345f953d5bde1c5e6\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\b8a443fbf55c841345f953d5bde1c5e6\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4711d9931c2a9328b4ea97e4bd5a9976\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\4711d9931c2a9328b4ea97e4bd5a9976\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\ae1520ef1699f11a5c86900325cf6a20\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cdc054f5aba414a2b001a9ee5fa96088\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\34f00fcabba958fd939f055133768265\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:27:13-77
+queries
+ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:28:5-44:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:31:9-37:18
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:32:13-65
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:32:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:34:23-71
+data
+ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:36:13-44
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:36:19-41
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:40:9-42:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:41:13-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:41:21-87
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:49:9-53:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:52:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:51:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:53:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:50:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:55:9-59:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:57:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:58:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:56:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:61:9-64:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:63:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\59e523da1360acbd4bef426c3ad58b08\transformed\jetified-play-services-ads-lite-21.2.0\AndroidManifest.xml:62:13-64
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\11fb69b8aeb85a797509137581015433\transformed\jetified-play-services-measurement-impl-20.1.2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.2] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\582440e3795add9cc7147c750d508b3d\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fccc8d15030e9ddc4f04a1191f2ed191\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fccc8d15030e9ddc4f04a1191f2ed191\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\fccc8d15030e9ddc4f04a1191f2ed191\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8508431b56924959a90c594cfba04620\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8508431b56924959a90c594cfba04620\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cfb38dcbdeecda9e14afc64422eca163\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\cfb38dcbdeecda9e14afc64422eca163\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\dcb6a9e12784627ae45a583577e7e092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:22-74
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\c3d95fe0a6c1f067742e24da41243995\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8508431b56924959a90c594cfba04620\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8508431b56924959a90c594cfba04620\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\8508431b56924959a90c594cfba04620\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0b80922676352e4d6260843e0647f6a0\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0b80922676352e4d6260843e0647f6a0\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0b80922676352e4d6260843e0647f6a0\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] D:\Download\ScreenMirroring-master\gradle\caches\transforms-3\0b80922676352e4d6260843e0647f6a0\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74

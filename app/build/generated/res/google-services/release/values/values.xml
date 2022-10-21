@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1020570491322-qoc5i00r3pe4r65sfuece5f1ie46it52.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://world-cup-2022-a8555-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">1020570491322</string>
+    <string name="google_api_key" translatable="false">AIzaSyANEQpf64vnajzXesinMqUG3Ecc8dmnKDw</string>
+    <string name="google_app_id" translatable="false">1:1020570491322:android:b3808c811af2351609a583</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyANEQpf64vnajzXesinMqUG3Ecc8dmnKDw</string>
+    <string name="google_storage_bucket" translatable="false">world-cup-2022-a8555.appspot.com</string>
+    <string name="project_id" translatable="false">world-cup-2022-a8555</string>
+</resources>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.3.1" type="incidents">
+
+    <incident
+        id="InvalidSetHasFixedSize"
+        severity="fatal"
+        message="When using `setHasFixedSize() in an `RecyclerView`, `wrap_content` cannot be used as \&#xA;a value for `size` in the scrolling direction.">
+        <location
+            file="${:app*release*sourceProvider*0*javaDir*0}/com/worldcuptracking/activity/NewsFeedActivity.java"
+            line="200"
+            column="17"
+            startOffset="7080"
+            endLine="200"
+            endColumn="51"
+            endOffset="7114"/>
+    </incident>
+
+    <incident
+        id="InvalidSetHasFixedSize"
+        severity="fatal"
+        message="When using `setHasFixedSize() in an `RecyclerView`, `wrap_content` cannot be used as \&#xA;a value for `size` in the scrolling direction.">
+        <location
+            file="${:app*release*sourceProvider*0*javaDir*0}/com/worldcuptracking/activity/StadiumListActivity.java"
+            line="57"
+            column="9"
+            startOffset="3189"
+            endLine="57"
+            endColumn="43"
+            endOffset="3223"/>
+    </incident>
+
+    <incident
+        id="InvalidSetHasFixedSize"
+        severity="fatal"
+        message="When using `setHasFixedSize() in an `RecyclerView`, `wrap_content` cannot be used as \&#xA;a value for `size` in the scrolling direction.">
+        <location
+            file="${:app*release*sourceProvider*0*javaDir*0}/com/worldcuptracking/activity/StadiumListActivity.java"
+            line="138"
+            column="17"
+            startOffset="6044"
+            endLine="138"
+            endColumn="51"
+            endOffset="6078"/>
+    </incident>
+
+    <incident
+        id="InvalidSetHasFixedSize"
+        severity="fatal"
+        message="When using `setHasFixedSize() in an `RecyclerView`, `wrap_content` cannot be used as \&#xA;a value for `size` in the scrolling direction.">
+        <location
+            file="${:app*release*sourceProvider*0*javaDir*0}/com/worldcuptracking/activity/TeamActivity.java"
+            line="34"
+            column="9"
+            startOffset="1063"
+            endLine="34"
+            endColumn="43"
+            endOffset="1097"/>
+    </incident>
+
+    <incident
+        id="InvalidSetHasFixedSize"
+        severity="fatal"
+        message="When using `setHasFixedSize() in an `RecyclerView`, `wrap_content` cannot be used as \&#xA;a value for `size` in the scrolling direction.">
+        <location
+            file="${:app*release*sourceProvider*0*javaDir*0}/com/worldcuptracking/activity/TeamProfileActivity.java"
+            line="61"
+            column="9"
+            startOffset="2032"
+            endLine="61"
+            endColumn="43"
+            endOffset="2066"/>
+    </incident>
+
+    <incident
+        id="InvalidSetHasFixedSize"
+        severity="fatal"
+        message="When using `setHasFixedSize() in an `RecyclerView`, `wrap_content` cannot be used as \&#xA;a value for `size` in the scrolling direction.">
+        <location
+            file="${:app*release*sourceProvider*0*javaDir*0}/com/worldcuptracking/fragment/GroupFragment.java"
+            line="55"
+            column="9"
+            startOffset="1929"
+            endLine="55"
+            endColumn="43"
+            endOffset="1963"/>
+    </incident>
+
+    <incident
+        id="InvalidSetHasFixedSize"
+        severity="fatal"
+        message="When using `setHasFixedSize() in an `RecyclerView`, `wrap_content` cannot be used as \&#xA;a value for `size` in the scrolling direction.">
+        <location
+            file="${:app*release*sourceProvider*0*javaDir*0}/com/worldcuptracking/fragment/GroupFragment.java"
+            line="55"
+            column="9"
+            startOffset="1929"
+            endLine="55"
+            endColumn="43"
+            endOffset="1963"/>
+    </incident>
+
+    <incident
+        id="InvalidSetHasFixedSize"
+        severity="fatal"
+        message="When using `setHasFixedSize() in an `RecyclerView`, `wrap_content` cannot be used as \&#xA;a value for `size` in the scrolling direction.">
+        <location
+            file="${:app*release*sourceProvider*0*javaDir*0}/com/worldcuptracking/fragment/GroupFragment.java"
+            line="79"
+            column="9"
+            startOffset="2761"
+            endLine="79"
+            endColumn="44"
+            endOffset="2796"/>
+    </incident>
+
+    <incident
+        id="InvalidSetHasFixedSize"
+        severity="fatal"
+        message="When using `setHasFixedSize() in an `RecyclerView`, `wrap_content` cannot be used as \&#xA;a value for `size` in the scrolling direction.">
+        <location
+            file="${:app*release*sourceProvider*0*javaDir*0}/com/worldcuptracking/fragment/GroupFragment.java"
+            line="79"
+            column="9"
+            startOffset="2761"
+            endLine="79"
+            endColumn="44"
+            endOffset="2796"/>
+    </incident>
+
+    <incident
+        id="InvalidSetHasFixedSize"
+        severity="fatal"
+        message="When using `setHasFixedSize() in an `RecyclerView`, `wrap_content` cannot be used as \&#xA;a value for `size` in the scrolling direction.">
+        <location
+            file="${:app*release*sourceProvider*0*javaDir*0}/com/worldcuptracking/fragment/MatchFragment.java"
+            line="70"
+            column="9"
+            startOffset="2258"
+            endLine="70"
+            endColumn="43"
+            endOffset="2292"/>
+    </incident>
+
+    <incident
+        id="InvalidSetHasFixedSize"
+        severity="fatal"
+        message="When using `setHasFixedSize() in an `RecyclerView`, `wrap_content` cannot be used as \&#xA;a value for `size` in the scrolling direction.">
+        <location
+            file="${:app*release*sourceProvider*0*javaDir*0}/com/worldcuptracking/fragment/MatchFragment.java"
+            line="89"
+            column="9"
+            startOffset="3141"
+            endLine="89"
+            endColumn="43"
+            endOffset="3175"/>
+    </incident>
+
+</incidents>

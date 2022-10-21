@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/grp_1">
+        <item
+            android:id="@+id/nav_match"
+            android:icon="@drawable/soccer_field"
+            android:title="@string/matches" />
+        <item
+            android:id="@+id/nav_group"
+            android:icon="@drawable/table_large"
+            android:title="@string/groups" />
+        <item
+            android:id="@+id/nav_team"
+            android:icon="@drawable/football_shirt"
+            android:title="@string/teams" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/newspaper"
+            android:title="@string/news" />
+        <item
+            android:id="@+id/nav_stadium"
+            android:icon="@drawable/stadium"
+            android:title="@string/stadiums" />
+    </group>
+
+    <group android:id="@+id/grp_2">
+
+        <item
+            android:id="@+id/share_app"
+            android:icon="@drawable/share"
+            android:title="@string/share_app" />
+
+        <item
+            android:id="@+id/rate_us"
+            android:icon="@drawable/star"
+            android:title="@string/rate_us" />
+
+        <item
+            android:id="@+id/privacy_policy"
+            android:icon="@drawable/policy"
+            android:title="@string/privacy_policy" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/information_outline"
+            android:title="@string/about" />
+
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/exit"
+            android:title="@string/exit" />
+
+    </group>
+
+
+
+
+</menu>

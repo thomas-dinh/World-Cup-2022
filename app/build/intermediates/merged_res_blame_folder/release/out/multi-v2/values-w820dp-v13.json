@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.worldcuptracking.app-mergeReleaseResources-37:/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\My Folder\\Project\\WorldCupApp\\WorldCupApp_AdMob_Ads\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,13,12,10,9,7,6,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,622,563,507,454,404,356,684",
+                        "endColumns": "57,58,57,52,51,46,46,43",
+                        "endOffsets": "348,676,616,555,501,446,398,723"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,172,230,283,335,382,429",
+                        "endColumns": "57,58,57,52,51,46,46,43",
+                        "endOffsets": "108,167,225,278,330,377,424,468"
+                    }
+                }
+            ]
+        }
+    ]
+}

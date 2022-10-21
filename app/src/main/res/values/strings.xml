@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name" translatable="false">World-CUP 2022 App</string>
+
+    <!-- Replace your admob ides here -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-5237347896918546~4837066810</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-5237347896918546/3694579374</string>
+    <string name="admob_interstitial_id" translatable="false">ca-app-pub-5237347896918546/6903196649</string>
+
+    <!-- Replace your Privacy policy LINK -->
+    <string name="PrivacyLink" translatable="false">https://sites.google.com/view/smarttechinc2022</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="start_date_local" translatable="false">20/11/2022 16:00:00</string>
+
+    <string name="disclaimer">This is not an official FIFA app. It is not affiliated with FIFA. Any trademarks used in the app are done so under fair use with the sole purpose of identifying the respective entities, and remain the property of their respective owner.</string>
+    <string name="info">This app is unofficial app for the upcoming 2022 FIFA World Cup Final in Qatar. It contains competition info such as list of fixtures, groups, participated teams, latest news and many more. If you like this app, please rate and leave us some feedback below for improvement and update.</string>
+
+    <!--   Stadiums_Details     -->
+    <string name="stadium_name">Stadium Name :</string>
+    <string name="capacity">Capacity :</string>
+    <string name="opening">Opening :</string>
+    <string name="location">Location :</string>
+
+    <string name="lusail_stadium">Lusail Stadium</string>
+    <string name="lusail_capacity">80,000 seats</string>
+    <string name="lusail_location">Doha</string>
+    <string name="lusail_opening" translatable="false">2022</string>
+
+    <string name="al_bayt_capacity"> 60,000 seats</string>
+    <string name="al_bayt_location">Al Khor</string>
+    <string name="al_bayt_opening" translatable="false">2021</string>
+
+    <string name="aljanoub_stadium">Al Janoub Stadium </string>
+    <string name="aljanoub_capacity">40,000 seats</string>
+    <string name="aljanoub_location">Al Wakrah</string>
+    <string name="aljanoub_opening" translatable="false">2019</string>
+
+    <string name="ahmadbinali_stadium">Ahmad Bin Ali</string>
+    <string name="ahmadbinali_capacity">40,000 seats</string>
+    <string name="ahmadbinali_location">Al Rayyan</string>
+    <string name="ahmadbinali_opening" translatable="false">2020</string>
+
+    <string name="khalifa_stadium">Khalifa International</string>
+    <string name="khalifa_capacity">40,000 seats</string>
+    <string name="khalifa_location">Doha</string>
+    <string name="khalifa_opening" translatable="false">1976</string>
+
+    <string name="education_stadium">Education City</string>
+    <string name="education_capacity">40,000 seats</string>
+    <string name="education_location">Doha</string>
+    <string name="education_opening" translatable="false">2020</string>
+
+    <string name="stadium974_stadium">Stadium 974</string>
+    <string name="stadium974_capacity">40,000 seats</string>
+    <string name="stadium974_location">Doha</string>
+    <string name="stadium974_opening" translatable="false">2021</string>
+
+    <string name="al_thumama_stadium">Al Thumama Stadium</string>
+    <string name="al_thumama_capacity">40,000 seats</string>
+    <string name="al_thumama_location">Doha</string>
+    <string name="al_thumama_opening" translatable="false">2021</string>
+    <!--   End Stadiums_Details     -->
+
+
+    <string name="home">Stadium</string>
+    <string name="details">Details</string>
+    <string name="show_all">Show All</string>
+    <string name="upcoming_fixture">Upcoming Fixture</string>
+    <string name="more">More</string>
+    <string name="latest_news">Latest News</string>
+    <string name="about">About</string>
+    <string name="stadiums">Stadiums</string>
+    <string name="news">News</string>
+    <string name="teams">Teams</string>
+    <string name="groups">Groups</string>
+    <string name="matches">Matches</string>
+    <string name="exit">Exit</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="al_bayt_stadium">Al Bayt Stadium</string>
+    <string name="version_1_0_0">version 1.0.0</string>
+    <string name="disclaimertitle">Disclaimer</string>
+    <string name="infotitle">Info</string>
+    <string name="stadium_of_the_day">Stadium of the Day</string>
+    <string name="u00a9_stadiumguide_com" translatable="false">© stadiumguide.com</string>
+    <string name="qatar">Qatar</string>
+    <string name="matchest">Matches</string>
+    <string name="ranking">Ranking</string>
+    <string name="whoops">Whoops!</string>
+    <string name="no_internet">No internet connections found. Check your connection and try again</string>
+    <string name="standings">Standings</string>
+    <string name="team">Team</string>
+    <string name="teamst">Teams</string>
+    <string name="detailst">DETAILS</string>
+    <string name="world_cup_final">World Cup Final</string>
+
+
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.worldcuptracking.app-mergeReleaseResources-37:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "D:\\Download\\ScreenMirroring-master\\gradle\\caches\\transforms-3\\475a556d0432e05354120585849d2bb3\\transformed\\material-1.8.0-alpha01\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}
