@@ -4,7 +4,7 @@
             "outputFile": "com.worldcuptracking.app-mergeReleaseResources-37:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "D:\\Download\\ScreenMirroring-master\\gradle\\caches\\transforms-3\\59cf86b0e95c42c757877b47490fe1ff\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\59cf86b0e95c42c757877b47490fe1ff\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Download\\ScreenMirroring-master\\gradle\\caches\\transforms-3\\e6ac26bc31b0525876c1ee0daa4b42b9\\transformed\\appcompat-1.5.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\e6ac26bc31b0525876c1ee0daa4b42b9\\transformed\\appcompat-1.5.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,17 +42,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Download\\ScreenMirroring-master\\gradle\\caches\\transforms-3\\c3d95fe0a6c1f067742e24da41243995\\transformed\\work-runtime-2.7.0\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,121",
-                        "endColumns": "65,62",
-                        "endOffsets": "116,179"
-                    }
-                },
-                {
-                    "source": "D:\\Download\\ScreenMirroring-master\\gradle\\caches\\transforms-3\\475a556d0432e05354120585849d2bb3\\transformed\\material-1.8.0-alpha01\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\475a556d0432e05354120585849d2bb3\\transformed\\material-1.8.0-alpha01\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,8,13,17,20,23,26,31,34,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -68,6 +58,16 @@
                         "endLines": "57,60,65,69,72,75,78,83,86,90,94",
                         "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
                         "endOffsets": "3722,3932,4252,4489,4696,4903,5106,5438,5640,5905,6178"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\c3d95fe0a6c1f067742e24da41243995\\transformed\\work-runtime-2.7.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
                     }
                 }
             ]

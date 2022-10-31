@@ -4,7 +4,7 @@
             "outputFile": "com.worldcuptracking.app-mergeReleaseResources-37:/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\My Folder\\Project\\WorldCupApp\\WorldCupApp_AdMob_Ads\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "D:\\Mobile App\\World Cup 2022\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4,13,12,10,9,7,6,15",
                         "startColumns": "4,4,4,4,4,4,4,4",

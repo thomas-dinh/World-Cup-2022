@@ -248,10 +248,6 @@
         "source": "com.worldcuptracking.app-main-40:/drawable/ahmadbinali.jpg"
     },
     {
-        "merged": "com.worldcuptracking.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.worldcuptracking.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
         "merged": "com.worldcuptracking.app-merged_res-39:/layout_include_drawer_content.xml.flat",
         "source": "com.worldcuptracking.app-main-40:/layout/include_drawer_content.xml"
     },
