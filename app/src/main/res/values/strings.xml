@@ -8,8 +8,13 @@
     <string name="PrivacyLink" translatable="false">https://sites.google.com/view/smarttechinc2022</string>
     <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
     <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
-    <string name="action_settings">Settings</string>
+    <string name="u00a9_stadiumguide_com" translatable="false">© stadiumguide.com</string>
     <string name="start_date_local" translatable="false">20/11/2022 16:00:00</string>
+    <string name="lusail_location" translatable="false">Doha</string>
+    <string name="lusail_opening" translatable="false">2022</string>
+    <string name="qatar" translatable="false">Qatar</string>
+
+    <string name="action_settings">Settings</string>
     <string name="disclaimer">This is not an official FIFA app. It is not affiliated with FIFA. Any trademarks used in the app are done so under fair use with the sole purpose of identifying the respective entities, and remain the property of their respective owner.</string>
     <string name="info">This app is unofficial app for the upcoming 2022 FIFA World Cup Final in Qatar. It contains competition info such as list of fixtures, groups, participated teams, latest news and many more. If you like this app, please rate and leave us some feedback below for improvement and update.</string>
 
@@ -21,8 +26,6 @@
 
     <string name="lusail_stadium">Lusail Stadium</string>
     <string name="lusail_capacity">80,000 seats</string>
-    <string name="lusail_location" translatable="false">Doha</string>
-    <string name="lusail_opening" translatable="false">2022</string>
 
     <string name="al_bayt_capacity"> 60,000 seats</string>
     <string name="al_bayt_location" translatable="false">Al Khor</string>
@@ -80,8 +83,6 @@
     <string name="disclaimertitle">Disclaimer</string>
     <string name="infotitle">Info</string>
     <string name="stadium_of_the_day">Stadium of the Day</string>
-    <string name="u00a9_stadiumguide_com" translatable="false">© stadiumguide.com</string>
-    <string name="qatar" translatable="false">Qatar</string>
     <string name="matchest">Matches</string>
     <string name="ranking">Ranking</string>
     <string name="whoops">Whoops!</string>
