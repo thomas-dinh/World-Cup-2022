@@ -252,7 +252,7 @@
                         android:layout_alignParentLeft="true"
                         android:layout_alignParentRight="false"
                         android:gravity="center"
-                        android:text="ADD TO CALENDAR" />
+                        android:text="@string/add_callendar" />
                 </LinearLayout>
 
             </LinearLayout>

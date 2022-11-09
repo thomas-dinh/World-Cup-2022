@@ -4,7 +4,7 @@
             "outputFile": "com.worldcuptracking.app-mergeReleaseResources-37:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\475a556d0432e05354120585849d2bb3\\transformed\\material-1.8.0-alpha01\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "source": "D:\\Download\\ScreenMirroring-master\\gradle\\caches\\transforms-3\\475a556d0432e05354120585849d2bb3\\transformed\\material-1.8.0-alpha01\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

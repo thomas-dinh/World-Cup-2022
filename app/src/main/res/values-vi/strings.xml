@@ -26,7 +26,7 @@
     <string name="news">Tin tức</string>
     <string name="teams">Đội</string>
     <string name="groups">Nhóm</string>
-    <string name="matches">Trận đấu</string>
+    <string name="match">Trận đấu</string>
     <string name="exit">Thoát</string>
     <string name="privacy_policy">Chính sách bảo mật</string>
     <string name="share_app">Chia sẻ</string>
@@ -52,4 +52,16 @@
     <string name="about">"Thông tin "</string>
     <string name="disclaimer">Đây không phải là một ứng dụng FIFA chính thức. Nó không liên kết với FIFA. Bất kỳ nhãn hiệu nào được sử dụng trong ứng dụng đều được sử dụng hợp pháp với mục đích duy nhất là xác định các thực thể tương ứng và giữ lại tài sản của chủ sở hữu tương ứng.</string>
     <string name="info">Ứng dụng này là ứng dụng không chính thức cho Vòng chung kết FIFA World Cup 2022 ở Qatar. Nó chứa thông tin tham khảo như danh sách các lịch thi đấu, các nhóm, các đội đã tham gia, tin tức mới nhất và nhiều hơn nữa. Nếu bạn thích ứng dụng này, vui lòng đánh giá và để lại cho chúng tôi một số phản hồi bên dưới để cải thiện và cập nhật.</string>
+    <string name="ahmadbinali_location">Al Rayyan</string>
+    <string name="khalifa_location">Doha</string>
+    <string name="education_location">Doha</string>
+    <string name="stadium974_location">Doha</string>
+    <string name="al_thumama_location">Doha</string>
+    <string name="lusail_location">Doha</string>
+    <string name="qatar">Qatar</string>
+    <string name="al_bayt_location">Al Khor</string>
+    <string name="aljanoub_location">Al Wakrah</string>
+    <string name="add_callendar">THÊM VÀO LỊCH</string>
+    <string name="group">Nhóm</string>
+    <string name="exit_toast">Bấm 2 lần để thoát ứng dụng</string>
 </resources>

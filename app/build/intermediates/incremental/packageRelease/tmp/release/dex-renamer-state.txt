@@ -1,7 +1,7 @@
-#Fri Oct 21 22:55:19 ICT 2022
-base.1=D\:\\Mobile App\\World Cup 2022\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+#Wed Nov 09 16:41:57 ICT 2022
+base.1=D\:\\My Folder\\Project\\WorldCupApp\\WorldCupApp_AdMob_Ads\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
 path.1=classes2.dex
-base.0=D\:\\Mobile App\\World Cup 2022\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.0=D\:\\My Folder\\Project\\WorldCupApp\\WorldCupApp_AdMob_Ads\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

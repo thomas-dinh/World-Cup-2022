@@ -4,7 +4,7 @@
     <string name="share_app">شارك التطبيق</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="exit">خروج</string>
-    <string name="matches">مباريات</string>
+    <string name="match">مباراة</string>
     <string name="groups">المجموعات</string>
     <string name="teams">الفرق</string>
     <string name="news">الأخبار</string>
@@ -58,4 +58,10 @@
     <string name="teamst">الفرق</string>
     <string name="detailst">التفاصيل</string>
     <string name="world_cup_final">"نهائي كوب 2022 "</string>
+    <string name="lusail_location">الدوحة</string>
+    <string name="al_bayt_location">الخور</string>
+    <string name="aljanoub_location">الوكرة</string>
+    <string name="add_callendar">إضافة إلى التقويم</string>
+    <string name="group">مجموعة</string>
+    <string name="exit_toast">نقرات مزدوجة للخروج من التطبيق</string>
 </resources>

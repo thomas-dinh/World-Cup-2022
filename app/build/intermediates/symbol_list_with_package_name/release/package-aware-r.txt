@@ -3910,6 +3910,7 @@ menu activity_main_drawer
 menu main
 menu menu_refresh
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 raw firebase_common_keep
@@ -3943,6 +3944,7 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string about
 string action_settings
+string add_callendar
 string admob_app_id
 string admob_banner_id
 string admob_interstitial_id
@@ -4007,6 +4009,7 @@ string education_stadium
 string error_a11y_label
 string error_icon_content_description
 string exit
+string exit_toast
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
@@ -4019,6 +4022,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string group
 string groups
 string hide_bottom_view_on_scroll_behavior
 string home
@@ -4047,7 +4051,7 @@ string m3_sys_motion_easing_linear
 string m3_sys_motion_easing_standard
 string m3_sys_motion_easing_standard_accelerate
 string m3_sys_motion_easing_standard_decelerate
-string matches
+string match
 string matchest
 string material_clock_display_divider
 string material_clock_toggle_content_description

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">World-CUP 2022</string>
+    <string name="app_name" translatable="false">World Cup Tracking 2022</string>
     <!-- Replace your admob ides here -->
     <string name="admob_app_id" translatable="false">ca-app-pub-5237347896918546~4837066810</string>
     <string name="admob_banner_id" translatable="false">ca-app-pub-5237347896918546/3694579374</string>
@@ -10,9 +10,9 @@
     <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
     <string name="u00a9_stadiumguide_com" translatable="false">© stadiumguide.com</string>
     <string name="start_date_local" translatable="false">20/11/2022 16:00:00</string>
-    <string name="lusail_location" translatable="false">Doha</string>
+    <string name="lusail_location">Doha</string>
     <string name="lusail_opening" translatable="false">2022</string>
-    <string name="qatar" translatable="false">Qatar</string>
+    <string name="qatar">Qatar</string>
 
     <string name="action_settings">Settings</string>
     <string name="disclaimer">This is not an official FIFA app. It is not affiliated with FIFA. Any trademarks used in the app are done so under fair use with the sole purpose of identifying the respective entities, and remain the property of their respective owner.</string>
@@ -23,42 +23,40 @@
     <string name="capacity">Capacity :</string>
     <string name="opening">Opening :</string>
     <string name="location">Location :</string>
-
     <string name="lusail_stadium">Lusail Stadium</string>
     <string name="lusail_capacity">80,000 seats</string>
-
-    <string name="al_bayt_capacity"> 60,000 seats</string>
-    <string name="al_bayt_location" translatable="false">Al Khor</string>
+    <string name="al_bayt_capacity">60,000 seats</string>
+    <string name="al_bayt_location">Al Khor</string>
     <string name="al_bayt_opening" translatable="false">2021</string>
 
     <string name="aljanoub_stadium">Al Janoub Stadium </string>
     <string name="aljanoub_capacity">40,000 seats</string>
-    <string name="aljanoub_location" translatable="false">Al Wakrah</string>
+    <string name="aljanoub_location">Al Wakrah</string>
     <string name="aljanoub_opening" translatable="false">2019</string>
 
     <string name="ahmadbinali_stadium">Ahmad Bin Ali</string>
     <string name="ahmadbinali_capacity">40,000 seats</string>
-    <string name="ahmadbinali_location" translatable="false">Al Rayyan</string>
+    <string name="ahmadbinali_location">Al Rayyan</string>
     <string name="ahmadbinali_opening" translatable="false">2020</string>
 
     <string name="khalifa_stadium">Khalifa International</string>
     <string name="khalifa_capacity">40,000 seats</string>
-    <string name="khalifa_location" translatable="false">Doha</string>
+    <string name="khalifa_location">Doha</string>
     <string name="khalifa_opening" translatable="false">1976</string>
 
     <string name="education_stadium">Education City</string>
     <string name="education_capacity">40,000 seats</string>
-    <string name="education_location" translatable="false">Doha</string>
+    <string name="education_location">Doha</string>
     <string name="education_opening" translatable="false">2020</string>
 
     <string name="stadium974_stadium">Stadium 974</string>
     <string name="stadium974_capacity">40,000 seats</string>
-    <string name="stadium974_location" translatable="false">Doha</string>
+    <string name="stadium974_location">Doha</string>
     <string name="stadium974_opening" translatable="false">2021</string>
 
     <string name="al_thumama_stadium">Al Thumama Stadium</string>
     <string name="al_thumama_capacity">40,000 seats</string>
-    <string name="al_thumama_location" translatable="false">Doha</string>
+    <string name="al_thumama_location">Doha</string>
     <string name="al_thumama_opening" translatable="false">2021</string>
     <!--   End Stadiums_Details     -->
 
@@ -73,8 +71,7 @@
     <string name="news">News</string>
     <string name="teams">Teams</string>
     <string name="groups">Groups</string>
-    <string name="matches">Matches</string>
-    <string name="exit">Exit</string>
+    <string name="match">Match</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="share_app">Share App</string>
     <string name="rate_us">Rate Us</string>
@@ -92,6 +89,11 @@
     <string name="teamst">Teams</string>
     <string name="detailst">DETAILS</string>
     <string name="world_cup_final">World Cup Final</string>
+    <string name="exit">Exit</string>
+
+    <string name="add_callendar">ADD TO CALENDAR</string>
+    <string name="group">Group</string>
+    <string name="exit_toast">Double clicks to exit app</string>
 
 
 </resources>

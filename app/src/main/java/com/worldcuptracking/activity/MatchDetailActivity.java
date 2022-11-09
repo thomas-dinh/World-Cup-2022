@@ -149,13 +149,13 @@ public class MatchDetailActivity extends AppCompatActivity implements MatchResul
         KOmatch = (KOMatch) intent.getSerializableExtra("KOmatch");
         if (match != null) {
             TextView group = findViewById(R.id.group);
-            group.setText("Group " + match.group);
+            group.setText(getResources().getString(R.string.group) + " " + match.group);
             try {
                 SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssZ");
                 formatter.setTimeZone(TimeZone.getTimeZone("UTC"));
                 Date date = formatter.parse(match.date);
                 TextView std = findViewById(R.id.round);
-                std.setText("Match " + match.name + ", " + new SimpleDateFormat("EEE, dd MMM yyyy HH:mm").format(date));
+                std.setText(getResources().getString(R.string.match) + " " + match.name + ", " + new SimpleDateFormat("EEE, dd MMM yyyy HH:mm").format(date));
                 this.date = date;
             } catch (ParseException e) {
                 e.printStackTrace();

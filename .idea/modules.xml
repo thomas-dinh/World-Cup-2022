@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/World_Cup_2022.iml" filepath="$PROJECT_DIR$/.idea/modules/World_Cup_2022.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/World_Cup_2022.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/World_Cup_2022.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/World_Cup_2022.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/World_Cup_2022.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/World_Cup_2022.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/World_Cup_2022.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/World_Cup_2022.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/World_Cup_2022.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WorldCupApp_AdMob_Ads.iml" filepath="$PROJECT_DIR$/.idea/modules/WorldCupApp_AdMob_Ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.unitTest.iml" />
     </modules>
   </component>
 </project>

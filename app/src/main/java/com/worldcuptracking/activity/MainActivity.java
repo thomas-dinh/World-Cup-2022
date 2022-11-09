@@ -297,7 +297,7 @@ public class MainActivity extends AppCompatActivity
     public void doExitApp() {
         if ((System.currentTimeMillis() - exitTime) > 2000) {
             exitTime = System.currentTimeMillis();
-            Toast.makeText(this, "Double clicks to exit app", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, getResources().getString(R.string.exit_toast), Toast.LENGTH_SHORT).show();
         } else {
             finish();
         }
