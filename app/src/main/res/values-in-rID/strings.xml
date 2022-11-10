@@ -64,4 +64,11 @@
     <string name="add_callendar">TAMBAHKAN KE KALENDER</string>
     <string name="group">Kelompok</string>
     <string name="exit_toast">Klik dua kali untuk keluar dari aplikasi</string>
+    <string name="share_text">Saya pikir Anda akan menyukai aplikasi ini:</string>
+    <string name="group_stage">Tahap Grup</string>
+    <string name="round16">Putaran 16</string>
+    <string name="quarter_final">Perempat final</string>
+    <string name="semi_final">Semifinal</string>
+    <string name="thirdplayoff">Play-off Juara 3</string>
+    <string name="grandfinal">Grand Final</string>
 </resources>

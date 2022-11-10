@@ -26,13 +26,19 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
 
+import com.google.android.ads.nativetemplates.NativeTemplateStyle;
+import com.google.android.ads.nativetemplates.TemplateView;
 import com.google.android.gms.ads.AdError;
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdLoader;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.FullScreenContentCallback;
 import com.google.android.gms.ads.LoadAdError;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.interstitial.InterstitialAd;
 import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
+import com.google.android.gms.ads.nativead.NativeAd;
+import com.google.android.gms.ads.nativead.NativeAdOptions;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -137,7 +143,6 @@ public class MatchDetailActivity extends AppCompatActivity implements MatchResul
             }
 
         });
-
 
         initToolbar();
 
@@ -304,7 +309,6 @@ public class MatchDetailActivity extends AppCompatActivity implements MatchResul
             }
         }
 
-
         Button button = findViewById(R.id.button);
         parent = findViewById(R.id.calender);
         button.setOnClickListener(view -> {
@@ -320,7 +324,36 @@ public class MatchDetailActivity extends AppCompatActivity implements MatchResul
             }
         });
 
+        loadNativeAds();
+    }
 
+    private void loadNativeAds(){
+        AdLoader adLoader = new AdLoader.Builder(this, getString(R.string.admob_native_id))
+                .forNativeAd(new NativeAd.OnNativeAdLoadedListener() {
+                    @Override
+                    public void onNativeAdLoaded(NativeAd nativeAd) {
+                        // Show the ad.
+                        NativeTemplateStyle styles = new
+                                NativeTemplateStyle.Builder().build();
+                        TemplateView template = findViewById(R.id.my_template);
+                        template.setStyles(styles);
+                        template.setNativeAd(nativeAd);
+                        template.setVisibility(View.VISIBLE);
+                    }
+                })
+                .withAdListener(new AdListener() {
+                    @Override
+                    public void onAdFailedToLoad(LoadAdError adError) {
+                        // Handle the failure by logging, altering the UI, and so on.
+                    }
+                })
+                .withNativeAdOptions(new NativeAdOptions.Builder()
+                        // Methods in the NativeAdOptions.Builder class can be
+                        // used here to specify individual options settings.
+                        .build())
+                .build();
+
+        adLoader.loadAds(new AdRequest.Builder().build(), 3);
     }
 
     @Override

@@ -64,4 +64,11 @@
     <string name="add_callendar">ZUM KALENDER HINZUFÜGEN</string>
     <string name="group">Gruppe</string>
     <string name="exit_toast">Doppelklicken, um die App zu beenden</string>
+    <string name="share_text">Ich denke, Sie werden diese App mögen:</string>
+    <string name="group_stage">Gruppenphase</string>
+    <string name="round16">Achtelfinale</string>
+    <string name="quarter_final">Viertelfinale</string>
+    <string name="semi_final">Halbfinale</string>
+    <string name="thirdplayoff">Spiel um Platz 3</string>
+    <string name="grandfinal">Großes Finale</string>
 </resources>

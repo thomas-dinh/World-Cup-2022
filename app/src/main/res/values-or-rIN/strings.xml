@@ -64,4 +64,11 @@
     <string name="add_callendar">CALENDAR କୁ ଯୋଡନ୍ତୁ |</string>
     <string name="group">ଗୋଷ୍ଠୀ</string>
     <string name="exit_toast">ଆପ୍ ଛାଡିବାକୁ ଦୁଇଥର କ୍ଲିକ୍ କରନ୍ତୁ |</string>
+    <string name="share_text">ମୁଁ ଭାବୁଛି ତୁମେ ଏହି ଆପ୍ ପସନ୍ଦ କରିବ |</string>
+    <string name="group_stage">ଗୋଷ୍ଠୀ ପର୍ଯ୍ୟାୟ |</string>
+    <string name="round16">ରାଉଣ୍ଡ 16</string>
+    <string name="quarter_final">କ୍ୱାର୍ଟର ଫାଇନାଲ</string>
+    <string name="semi_final">ସେମିଫାଇନାଲ |</string>
+    <string name="thirdplayoff">ତୃତୀୟ ସ୍ଥାନ ପ୍ଲେ-ଅଫ୍ |</string>
+    <string name="grandfinal">ଗ୍ରାଣ୍ଡ୍ ଫାଇନାଲ୍ |</string>
 </resources>

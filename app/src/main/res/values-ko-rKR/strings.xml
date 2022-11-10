@@ -64,4 +64,11 @@
     <string name="add_callendar">캘린더에 추가</string>
     <string name="group">그룹</string>
     <string name="exit_toast">두 번 클릭하여 앱 종료</string>
+    <string name="share_text">나는 당신이 이 앱을 좋아할 것이라고 생각합니다:</string>
+    <string name="group_stage">그룹 스테이지</string>
+    <string name="round16">16강전</string>
+    <string name="quarter_final">준준결승</string>
+    <string name="semi_final">준결승</string>
+    <string name="thirdplayoff">3위 플레이오프</string>
+    <string name="grandfinal">최종 결승</string>
 </resources>

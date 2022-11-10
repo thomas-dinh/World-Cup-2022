@@ -557,6 +557,7 @@ attr foregroundInsidePadding
 attr framePosition
 attr gapBetweenBars
 attr gestureInsetBottomIgnored
+attr gnt_template_type
 attr goIcon
 attr guidelineUseRtl
 attr haloColor
@@ -1477,6 +1478,16 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color gnt_ad_green
+color gnt_black
+color gnt_blue
+color gnt_gray
+color gnt_green
+color gnt_outline
+color gnt_red
+color gnt_test_background_color
+color gnt_test_background_color_2
+color gnt_white
 color green_100
 color green_200
 color green_300
@@ -2335,6 +2346,23 @@ dimen fab_margin
 dimen fastscroll_default_thickness
 dimen fastscroll_margin
 dimen fastscroll_minimum_range
+dimen gnt_ad_indicator_bar_height
+dimen gnt_ad_indicator_bottom_margin
+dimen gnt_ad_indicator_height
+dimen gnt_ad_indicator_text_size
+dimen gnt_ad_indicator_top_margin
+dimen gnt_ad_indicator_width
+dimen gnt_default_margin
+dimen gnt_media_view_weight
+dimen gnt_medium_cta_button_height
+dimen gnt_medium_template_bottom_weight
+dimen gnt_medium_template_top_weight
+dimen gnt_no_margin
+dimen gnt_no_size
+dimen gnt_small_cta_button_height
+dimen gnt_text_row_weight
+dimen gnt_text_size_large
+dimen gnt_text_size_small
 dimen highlight_alpha_material_colored
 dimen highlight_alpha_material_dark
 dimen highlight_alpha_material_light
@@ -2973,6 +3001,8 @@ drawable football_shirt
 drawable fr
 drawable gb
 drawable gh
+drawable gnt_outline_shape
+drawable gnt_rounded_corners_shape
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable hr
@@ -3184,6 +3214,7 @@ id activity_chooser_view_content
 id adView
 id adView2
 id adView3
+id ad_notification_view
 id add
 id adjust_height
 id adjust_width
@@ -3206,12 +3237,14 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id background
 id barrier
 id baseline
 id beginOnFirstDraw
 id beginning
 id bestChoice
 id blocking
+id body
 id bottom
 id bounce
 id bounceBoth
@@ -3267,6 +3300,7 @@ id countdown
 id counter
 id counterclockwise
 id cradle
+id cta
 id currentState
 id custom
 id customPanel
@@ -3350,6 +3384,7 @@ id groups
 id grp_1
 id grp_2
 id header_title
+id headline
 id headline1
 id headline2
 id headline3
@@ -3428,6 +3463,7 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
+id media_view
 id message
 id middle
 id mini
@@ -3462,9 +3498,11 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id my_template
 id name
 id name1
 id name2
+id native_ad_view
 id nav_about
 id nav_exit
 id nav_group
@@ -3519,12 +3557,14 @@ id point
 id position
 id postLayout
 id pressed
+id primary
 id privacy_policy
 id progress_circular
 id progress_horizontal
 id radio
 id ranking
 id rate_us
+id rating_bar
 id ratio
 id rectangles
 id recyclerView
@@ -3537,6 +3577,7 @@ id right_side
 id round
 id rounded
 id row_index_key
+id row_two
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3558,6 +3599,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id secondary
 id select_dialog_listview
 id selected
 id selection_type
@@ -3839,6 +3881,8 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_group
 layout fragment_match
+layout gnt_medium_template_view
+layout gnt_small_template_view
 layout include_drawer_content
 layout item_group
 layout item_group_standing
@@ -3948,6 +3992,7 @@ string add_callendar
 string admob_app_id
 string admob_banner_id
 string admob_interstitial_id
+string admob_native_id
 string ahmadbinali_capacity
 string ahmadbinali_location
 string ahmadbinali_opening
@@ -4022,7 +4067,9 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string grandfinal
 string group
+string group_stage
 string groups
 string hide_bottom_view_on_scroll_behavior
 string home
@@ -4151,8 +4198,10 @@ string path_password_strike_through
 string privacy_policy
 string project_id
 string qatar
+string quarter_final
 string ranking
 string rate_us
+string round16
 string s1
 string s2
 string s3
@@ -4161,7 +4210,9 @@ string s5
 string s6
 string s7
 string search_menu_title
+string semi_final
 string share_app
+string share_text
 string show_all
 string stadium974_capacity
 string stadium974_location
@@ -4176,6 +4227,7 @@ string status_bar_notification_info_overflow
 string team
 string teams
 string teamst
+string thirdplayoff
 string u00a9_stadiumguide_com
 string upcoming_fixture
 string version_1_0_0
@@ -5386,6 +5438,7 @@ styleable SwitchCompat android_textOn android_textOff android_thumb showText spl
 styleable SwitchMaterial useMaterialThemeColors
 styleable TabItem android_icon android_layout android_text
 styleable TabLayout tabBackground tabContentStart tabGravity tabIconTint tabIconTintMode tabIndicator tabIndicatorAnimationDuration tabIndicatorAnimationMode tabIndicatorColor tabIndicatorFullWidth tabIndicatorGravity tabIndicatorHeight tabInlineLabel tabMaxWidth tabMinWidth tabMode tabPadding tabPaddingBottom tabPaddingEnd tabPaddingStart tabPaddingTop tabRippleColor tabSelectedTextColor tabTextAppearance tabTextColor tabUnboundedRipple
+styleable TemplateView gnt_template_type
 styleable TextAppearance android_textSize android_typeface android_textStyle android_textColor android_textColorHint android_textColorLink android_shadowColor android_shadowDx android_shadowDy android_shadowRadius android_fontFamily android_textFontWeight fontFamily fontVariationSettings textAllCaps textLocale
 styleable TextEffects android_textSize android_typeface android_textStyle android_text android_shadowColor android_shadowDx android_shadowDy android_shadowRadius android_fontFamily borderRound borderRoundPercent textFillColor textOutlineColor textOutlineThickness
 styleable TextInputEditText textInputLayoutFocusedRectEnabled

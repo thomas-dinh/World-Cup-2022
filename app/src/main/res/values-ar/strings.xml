@@ -64,4 +64,12 @@
     <string name="add_callendar">إضافة إلى التقويم</string>
     <string name="group">مجموعة</string>
     <string name="exit_toast">نقرات مزدوجة للخروج من التطبيق</string>
+    <string name="share_text">أعتقد أنك ستحب هذا التطبيق</string>
+    <string name="group_stage">مرحلة المجموعات</string>
+    <string name="round16">دور الـ 16</string>
+    <string name="quarter_final">الربع النهائي</string>
+    <string name="semi_final">الدور قبل النهائي</string>
+    <string name="thirdplayoff">المكان الثالث</string>
+    <string name="grandfinal">النهائي الكبير</string>
+
 </resources>

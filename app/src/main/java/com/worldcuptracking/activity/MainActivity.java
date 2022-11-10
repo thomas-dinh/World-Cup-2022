@@ -9,6 +9,7 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -18,15 +19,19 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import com.google.android.gms.ads.AdError;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.LoadAdError;
 import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
 import com.google.android.material.navigation.NavigationView;
 import com.worldcuptracking.R;
 import com.worldcuptracking.WorldCupApp;
@@ -56,6 +61,9 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Random;
 import java.util.TimeZone;
+import com.google.android.gms.ads.interstitial.InterstitialAd;
+import com.google.android.gms.ads.FullScreenContentCallback;
+import com.google.android.gms.ads.interstitial.InterstitialAd;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, DatabaseListener {
@@ -64,6 +72,8 @@ public class MainActivity extends AppCompatActivity
     private LinearLayout lyt_progress;
     Fragment fragment;
     String newsfeed;
+    private InterstitialAd mInterstitialAd;
+    private int mItemID;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         setTheme(R.style.AppTheme);
@@ -77,6 +87,51 @@ public class MainActivity extends AppCompatActivity
         AdRequest adRequest = new AdRequest.Builder().build();
         //load ads request
         mAdView.loadAd(adRequest);
+
+        InterstitialAd.load(this,getString(R.string.admob_interstitial_id), adRequest, new InterstitialAdLoadCallback() {
+            @Override
+            public void onAdLoaded(@NonNull InterstitialAd interstitialAd) {
+                // The mInterstitialAd reference will be null until
+                // an ad is loaded.
+                mInterstitialAd = interstitialAd;
+                mInterstitialAd.setFullScreenContentCallback(new FullScreenContentCallback(){
+                    @Override
+                    public void onAdClicked() {
+                        // Called when a click is recorded for an ad.
+
+                    }
+                    @Override
+                    public void onAdDismissedFullScreenContent() {
+                        // Called when ad is dismissed.
+                        // Set the ad reference to null so you don't show the ad a second time.
+                       // NewsActivity.this.finish();
+                        mInterstitialAd = null;
+                        openScreen(mItemID);
+                    }
+                    @Override
+                    public void onAdFailedToShowFullScreenContent(AdError adError) {
+                        // Called when ad fails to show.
+                        mInterstitialAd = null;
+                        openScreen(mItemID);
+                    }
+                    @Override
+                    public void onAdImpression() {
+                        // Called when an impression is recorded for an ad.
+                    }
+                    @Override
+                    public void onAdShowedFullScreenContent() {
+                        // Called when ad is shown.
+                    }
+                });
+            }
+            @Override
+            public void onAdFailedToLoad(@NonNull LoadAdError loadAdError) {
+                // Handle the error
+                mInterstitialAd = null;
+                Log.e("TAG", "Ad load failed");
+            }
+
+        });
 
 
         Toolbar toolbar = findViewById(R.id.toolbar);
@@ -146,8 +201,8 @@ public class MainActivity extends AppCompatActivity
         //"MORE" button initialize
         Button button1 = findViewById(R.id.button1);
         button1.setOnClickListener(view -> {
-            Intent intent = new Intent(MainActivity.this, MatchActivity.class);
-            startActivity(intent);
+            mItemID = 100;
+            showAdsInter(mItemID);
         });
 
         Button button2 = findViewById(R.id.button2);
@@ -158,8 +213,9 @@ public class MainActivity extends AppCompatActivity
 
         Button button3 = findViewById(R.id.button3);
         button3.setOnClickListener(view -> {
-            Intent intent = new Intent(MainActivity.this, StadiumListActivity.class);
-            startActivity(intent);
+            mItemID = 200;
+            showAdsInter(mItemID);
+
         });
 
         //fetch news
@@ -359,12 +415,15 @@ public class MainActivity extends AppCompatActivity
         return super.onOptionsItemSelected(item);
     }
 
-    @SuppressWarnings("StatementWithEmptyBody")
-    @Override
-    public boolean onNavigationItemSelected(MenuItem item) {
-        // Handle navigation view item clicks here.
-        int id = item.getItemId();
+    private void showAdsInter(int id){
+        if (mInterstitialAd != null) {
+            mInterstitialAd.show(this);
+        }else {
+            openScreen(id);
+        }
+    }
 
+    private void openScreen(int id){
         if (id == R.id.nav_match) {
             Intent intent = new Intent(MainActivity.this, MatchActivity.class);
             startActivity(intent);
@@ -375,18 +434,35 @@ public class MainActivity extends AppCompatActivity
             Intent intent = new Intent(MainActivity.this, NewsFeedActivity.class);
             startActivity(intent);
         }
-
         else if (id == R.id.nav_stadium) {
-
             Intent intent = new Intent(MainActivity.this, StadiumListActivity.class);
             startActivity(intent);
-
-
         }
         else if (id == R.id.nav_team) {
             Intent intent = new Intent(MainActivity.this, TeamActivity.class);
             startActivity(intent);
-        } else if (id == R.id.nav_about) {
+        }else if (id == 100){
+            Intent intent = new Intent(MainActivity.this, MatchActivity.class);
+            startActivity(intent);
+        } else if (id == 200){
+            Intent intent = new Intent(MainActivity.this, StadiumListActivity.class);
+            startActivity(intent);
+        }
+    }
+
+    @SuppressWarnings("StatementWithEmptyBody")
+    @Override
+    public boolean onNavigationItemSelected(MenuItem item) {
+        // Handle navigation view item clicks here.
+        int id = item.getItemId();
+        mItemID = id;
+
+        if(id == R.id.nav_match || id == R.id.nav_group || id == R.id.nav_news
+                || id == R.id.nav_stadium || id == R.id.nav_team){
+
+            showAdsInter(id);
+        }
+        else if (id == R.id.nav_about) {
             Intent intent = new Intent(MainActivity.this, AboutActivity.class);
             startActivity(intent);
         }else if (id == R.id.nav_exit) {
@@ -396,12 +472,11 @@ public class MainActivity extends AppCompatActivity
             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             startActivity(intent);
         }
-
         else if (id == R.id.share_app) {
             Intent myIntent = new Intent(Intent.ACTION_SEND);
             myIntent.setType("text/plain");
-            String body = "I think you will like this App: " + getResources().getString(R.string.app_name) + " : " + "http://play.google.com/store/apps/details?id=" + getApplication().getPackageName();
-            String sub = "I think you will like this App ";
+            String body = getResources().getString(R.string.share_text) + " " + getResources().getString(R.string.app_name) + " : " + "http://play.google.com/store/apps/details?id=" + getApplication().getPackageName();
+            String sub = getResources().getString(R.string.share_text);
             myIntent.putExtra(Intent.EXTRA_SUBJECT,sub);
             myIntent.putExtra(Intent.EXTRA_TEXT,body);
             startActivity(Intent.createChooser(myIntent, "Share: " + getResources().getString(R.string.app_name)));

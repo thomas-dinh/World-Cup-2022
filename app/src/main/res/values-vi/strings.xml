@@ -64,4 +64,11 @@
     <string name="add_callendar">THÊM VÀO LỊCH</string>
     <string name="group">Nhóm</string>
     <string name="exit_toast">Bấm 2 lần để thoát ứng dụng</string>
+    <string name="share_text">App này xem WorldCup hay lắm. Tải về dùng thử nhé:</string>
+    <string name="group_stage">Vòng bảng</string>
+    <string name="round16">Vòng 16</string>
+    <string name="quarter_final">Tứ kết</string>
+    <string name="semi_final">Bán kết</string>
+    <string name="thirdplayoff">Tranh hạng 3</string>
+    <string name="grandfinal">Chung kết</string>
 </resources>

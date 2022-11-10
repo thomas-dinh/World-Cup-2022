@@ -64,4 +64,11 @@
     <string name="add_callendar">AÑADIR AL CALENDARIO</string>
     <string name="group">Grupo</string>
     <string name="exit_toast">Haga doble clic para salir de la aplicación</string>
+    <string name="share_text">Creo que te gustará esta aplicación:</string>
+    <string name="group_stage">Etapa de grupos</string>
+    <string name="round16">Octavos de final</string>
+    <string name="quarter_final">Cuartos de final</string>
+    <string name="semi_final">Semifinal</string>
+    <string name="thirdplayoff">Desempate por el 3er lugar</string>
+    <string name="grandfinal">Gran Final</string>
 </resources>

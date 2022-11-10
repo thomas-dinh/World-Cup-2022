@@ -29,15 +29,10 @@ public class MatchActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tabs_scroll);
-
-
-
         initToolbar();
         initComponent();
 
     }
-
-
 
     private void initToolbar() {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
@@ -58,14 +53,14 @@ public class MatchActivity extends AppCompatActivity {
         MatchActivity.SectionsPagerAdapter adapter = new MatchActivity.SectionsPagerAdapter(getSupportFragmentManager());
 
         if (!WorldCupApp.matches.isEmpty()) {
-            adapter.addFragment(MatchFragment.newInstance("Group"), "Group Phase");
+            adapter.addFragment(MatchFragment.newInstance("Group"), getResources().getString(R.string.group_stage));
         }
         if (!WorldCupApp.knockouts.isEmpty()) {
-            adapter.addFragment(MatchFragment.newInstance("Round of 16"), "Round of 16");
-            adapter.addFragment(MatchFragment.newInstance("Quarter-finals"), "Quarter-final");
-            adapter.addFragment(MatchFragment.newInstance("Semi-finals"), "Semi-final");
-            adapter.addFragment(MatchFragment.newInstance("Third place play-off"), "3rd Place Play-off");
-            adapter.addFragment(MatchFragment.newInstance("Final"), "Grand Final");
+            adapter.addFragment(MatchFragment.newInstance("Round of 16"), getResources().getString(R.string.round16));
+            adapter.addFragment(MatchFragment.newInstance("Quarter-finals"), getResources().getString(R.string.quarter_final));
+            adapter.addFragment(MatchFragment.newInstance("Semi-finals"), getResources().getString(R.string.semi_final));
+            adapter.addFragment(MatchFragment.newInstance("Third place play-off"), getResources().getString(R.string.thirdplayoff));
+            adapter.addFragment(MatchFragment.newInstance("Final"), getResources().getString(R.string.grandfinal));
         }
         viewPager.setAdapter(adapter);
     }

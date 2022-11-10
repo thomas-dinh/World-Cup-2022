@@ -64,4 +64,11 @@
     <string name="add_callendar">カレンダーに追加</string>
     <string name="group">グループ</string>
     <string name="exit_toast">ダブルクリックしてアプリを終了します</string>
+    <string name="share_text">このアプリを気に入っていただけると思います:</string>
+    <string name="group_stage">グループステージ</string>
+    <string name="round16">ラウンド16</string>
+    <string name="quarter_final">準々決勝</string>
+    <string name="semi_final">準決勝</string>
+    <string name="thirdplayoff">3位決定戦</string>
+    <string name="grandfinal">グランドファイナル</string>
 </resources>

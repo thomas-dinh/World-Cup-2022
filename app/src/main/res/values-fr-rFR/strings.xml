@@ -64,4 +64,11 @@
     <string name="add_callendar">AJOUTER AU CALENDRIER</string>
     <string name="group">Groupe</string>
     <string name="exit_toast">Double-cliquez pour quitter l\'application</string>
+    <string name="share_text">Je pense que vous aimerez cette application:</string>
+    <string name="group_stage">Phase de groupes</string>
+    <string name="round16">16ème de finale</string>
+    <string name="quarter_final">Quart de finale</string>
+    <string name="semi_final">Demi-finale</string>
+    <string name="thirdplayoff">Play-off pour la 3e place</string>
+    <string name="grandfinal">Grande Finale</string>
 </resources>

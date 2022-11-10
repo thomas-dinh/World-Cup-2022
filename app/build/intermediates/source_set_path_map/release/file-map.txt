@@ -40,3 +40,4 @@ com.worldcuptracking.app-mergeReleaseResources-38 D:\My Folder\Project\WorldCupA
 com.worldcuptracking.app-merged_res-39 D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\build\intermediates\merged_res\release
 com.worldcuptracking.app-main-40 D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\main\res
 com.worldcuptracking.app-release-41 D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\app\src\release\res
+com.worldcuptracking.app-packaged_res-42 D:\My Folder\Project\WorldCupApp\WorldCupApp_AdMob_Ads\nativetemplates\build\intermediates\packaged_res\release

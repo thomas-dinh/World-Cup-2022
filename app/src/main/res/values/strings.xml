@@ -3,7 +3,14 @@
     <!-- Replace your admob ides here -->
     <string name="admob_app_id" translatable="false">ca-app-pub-5237347896918546~4837066810</string>
     <string name="admob_banner_id" translatable="false">ca-app-pub-5237347896918546/3694579374</string>
+    <string name="admob_native_id" translatable="false">ca-app-pub-5237347896918546/5266904082</string>
     <string name="admob_interstitial_id" translatable="false">ca-app-pub-5237347896918546/6903196649</string>
+
+    <!--   Test Ads    -->
+    <!--<string name="admob_interstitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string> -->
+    <!--<string name="admob_native_id" translatable="false">ca-app-pub-3940256099942544/2247696110</string> -->
+    <!--<string name="admob_open_id" translatable="false">ca-app-pub-3940256099942544/3419835294</string> -->
+
     <!-- Replace your Privacy policy LINK -->
     <string name="PrivacyLink" translatable="false">https://sites.google.com/view/smarttechinc2022</string>
     <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
@@ -94,6 +101,12 @@
     <string name="add_callendar">ADD TO CALENDAR</string>
     <string name="group">Group</string>
     <string name="exit_toast">Double clicks to exit app</string>
-
+    <string name="share_text">I think you will like this App:</string>
+    <string name="group_stage">Group Stage</string>
+    <string name="round16">Round of 16</string>
+    <string name="quarter_final">Quarter-final</string>
+    <string name="semi_final">Semi-final</string>
+    <string name="thirdplayoff">3rd Place Play-off</string>
+    <string name="grandfinal">Grand Final</string>
 
 </resources>

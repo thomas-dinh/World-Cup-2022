@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WorldCupApp_AdMob_Ads.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/WorldCupApp_AdMob_Ads.nativetemplates.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/WorldCupApp_AdMob_Ads.nativetemplates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/WorldCupApp_AdMob_Ads.nativetemplates.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/WorldCupApp_AdMob_Ads.nativetemplates.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/WorldCupApp_AdMob_Ads.nativetemplates.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/WorldCupApp_AdMob_Ads.nativetemplates.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/WorldCupApp_AdMob_Ads.nativetemplates.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/WorldCupApp_AdMob_Ads.nativetemplates.unitTest.iml" />
     </modules>
   </component>
 </project>

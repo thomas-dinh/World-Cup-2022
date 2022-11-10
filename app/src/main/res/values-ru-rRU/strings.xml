@@ -64,4 +64,11 @@
     <string name="add_callendar">ДОБАВИТЬ В КАЛЕНДАРЬ</string>
     <string name="group">Группа</string>
     <string name="exit_toast">Дважды щелкните, чтобы выйти из приложения</string>
+    <string name="share_text">я думаю вам понравится это приложение:</string>
+    <string name="group_stage">Групповой этап</string>
+    <string name="round16">1/8 финала</string>
+    <string name="quarter_final">Четвертьфинал</string>
+    <string name="semi_final">Полуфинал</string>
+    <string name="thirdplayoff">Плей-офф за 3 место</string>
+    <string name="grandfinal">Финал</string>
 </resources>
